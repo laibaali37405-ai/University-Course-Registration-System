@@ -23,6 +23,7 @@ This project includes 14 UML diagrams illustrating:
 - ![Package diagram](https://github.com/laibaali37405-ai/University-Course-Registration-System/blob/main/UniReg_Images/Package%20Diagram.png?raw=true)
 - ![Sequence diagram Transcript Flow](https://github.com/laibaali37405-ai/University-Course-Registration-System/blob/main/UniReg_Images/Sequence%20Diagam%7BTranscript%7D.png?raw=true)
 - ![Sequence daigaram Enrollment Flow](https://github.com/laibaali37405-ai/University-Course-Registration-System/blob/main/UniReg_Images/Sequence%20Diagram%20Enrollment%20in%20Course.png?raw=true)
+- ![Use case](https://github.com/laibaali37405-ai/University-Course-Registration-System/blob/main/UniReg_Images/UseCase.png?raw=true)
 
 ## Technologies Used
 - Modeling Tool:[visual Paradigm]
