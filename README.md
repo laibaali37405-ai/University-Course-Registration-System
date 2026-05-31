@@ -26,6 +26,8 @@ This project includes 14 UML diagrams illustrating:
 - ![Use case](https://github.com/laibaali37405-ai/University-Course-Registration-System/blob/main/UniReg_Images/UseCase.png?raw=true)
 - ![Acitvity diagram Enrollemnt](https://github.com/laibaali37405-ai/University-Course-Registration-System/blob/main/UniReg_Images/activity%20diagram%20enrollment.png?raw=true)
 ![Communication Diagram](https://github.com/laibaali37405-ai/University-Course-Registration-System/blob/main/UniReg_Images/communication%20diagram.png?raw=true)
+![Component Diagram](https://github.com/laibaali37405-ai/University-Course-Registration-System/blob/main/UniReg_Images/component%20diagram.png?raw=true)
+
 ## Technologies Used
 - Modeling Tool:[visual Paradigm]
 
