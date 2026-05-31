@@ -28,6 +28,7 @@ This project includes 14 UML diagrams illustrating:
 ![Communication Diagram](https://github.com/laibaali37405-ai/University-Course-Registration-System/blob/main/UniReg_Images/communication%20diagram.png?raw=true)
 ![Component Diagram](https://github.com/laibaali37405-ai/University-Course-Registration-System/blob/main/UniReg_Images/component%20diagram.png?raw=true)
 ![Deployment Diagram](https://github.com/laibaali37405-ai/University-Course-Registration-System/blob/main/UniReg_Images/deployment%20diagram.png?raw=true)
+![State Machine Diagram Course Status](https://github.com/laibaali37405-ai/University-Course-Registration-System/blob/main/UniReg_Images/state%20machine%20diagram%20course%20status.png?raw=true)
 
 ## Technologies Used
 - Modeling Tool:[visual Paradigm]
