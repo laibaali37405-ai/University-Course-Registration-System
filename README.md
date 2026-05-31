@@ -19,7 +19,7 @@ This project includes 14 UML diagrams illustrating:
 - State Machine Diagrams
 
 - UML Diagrams:
-- ![Desig Class] (https://github.com/laibaali37405-ai/University-Course-Registration-System/blob/main/UniReg_Images/DesignClass.png?raw=true)
+- ![Design Class](https://github.com/laibaali37405-ai/University-Course-Registration-System/blob/main/UniReg_Images/DesignClass.png?raw=true)
 
 ## Technologies Used
 - Modeling Tool:[visual Paradigm]
