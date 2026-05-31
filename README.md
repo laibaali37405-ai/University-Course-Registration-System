@@ -34,6 +34,10 @@ This project includes 14 UML diagrams illustrating:
 ## Technologies Used
 - Modeling Tool:[visual Paradigm]
 
+## Project Files
+- **Source Model**: The complete UML project is available in the `Uni course management.vpp` file. You can open this in [Visual Paradigm](https://www.visual-paradigm.com/) to view or edit the diagrams.
+
+
 ### Project Diagrams
 You can download the complete set of 14 UML diagrams here:
 [Download UniReg_Images.zip](UniReg_Images.zip)
